@@ -10,6 +10,7 @@ function Example() {
                         <div className="card-header">Example Component</div>
 
                         <div className="card-body">I'm an example component!</div>
+                        <h1>Hello Ali kazmi</h1>
                     </div>
                 </div>
             </div>
